@@ -10,7 +10,7 @@ function Application() {
   const [loading, setLoading] = useState(false);
 
   // Construct with token and endpoint
-  const client = new Web3Storage({ token: ''});
+  const client = new Web3Storage({ token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDI1NTYxMDc4OGY5Q0JmZGU1MDFkNDkyRUY1ODI2MDM0Y0QwZTNEYjIiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NzczNDg1NzY5MTQsIm5hbWUiOiJMYW5kcmVnaXN0cnktMiJ9.IXCajfgrwI6gRZ2CkMQ-sBJKESjXq0_t0AMZ6ObppIk'});
   const onDrop = async acceptedFiles => {
     setLoading(true);
     // Pack files into a CAR and send to web3.storage
@@ -91,12 +91,31 @@ function Application() {
                   </li>
 
                       </li>
+<br />
+                      <div className='text-3xl' style={{marginLeft:'350px',marginTop:'15px'}}>
+                        formatting
+                      </div>
+                      <br />
+                     <div className='' style={{marginLeft:'300px'}}>
+                          Create a .json file which specifies :
+                      </div>
+
+                      <li style={{marginLeft:'335px',marginTop:'10px'}}>
+                        Name of the owner 
+                      </li>
+                      <li style={{marginLeft:'335px'}}>
+                        Registeration date
+                      </li>
+                      <li style={{marginLeft:'335px'}}>
+                        Location ( co-ordinates )
+                      </li>
 
 
 
-
-                  
-
+     
+                      <div class="bar" style={{marginTop:'150px',marginLeft:'320px'}}>
+                      <div class="ball"></div>
+                      </div>
 
 
 
