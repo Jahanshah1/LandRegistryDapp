@@ -58,5 +58,9 @@ npm start
 ```
 If there are any problems please contact me shahjahanrajan@gmail.com
 
+## Future plans 
+- integrating the smart-contract with front-end for verification 
+- creating standard requied input fields from users rather than uploading a json file
+- fixing glitches 
 
 
