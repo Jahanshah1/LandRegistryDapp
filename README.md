@@ -25,8 +25,6 @@ The purpose of this platform is to create a decentralized and secure land regist
 
 
 
-
-
 ### Map which shows registered land
 <img width="1470" alt="Screenshot 2023-02-26 at 1 03 10 AM" src="https://user-images.githubusercontent.com/92823408/221376365-ef197fdc-a5a6-4bcf-bd5e-18c942b559ea.png">
 
@@ -36,6 +34,10 @@ The purpose of this platform is to create a decentralized and secure land regist
 <img width="447" alt="Screenshot 2023-02-26 at 12 01 11 AM" src="https://user-images.githubusercontent.com/92823408/221376400-d9802fd6-4915-40cc-8470-c4047bf15c72.png">
 
 
+## Contract deployed on Polygon Mumbai testnet 
+link - https://mumbai.polygonscan.com/address/0xe7B0D21316F5876568Ea214e16da1937D19b2f7b
+<br />
+contract address - 0xe7B0D21316F5876568Ea214e16da1937D19b2f7b
 
 
 
