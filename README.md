@@ -21,7 +21,9 @@ The purpose of this platform is to create a decentralized and secure land regist
 
 
 ### File getting uploaded to IPFS and getting the CID
-<img width="780" alt="Screenshot 2023-02-26 at 12 51 54 AM" src="https://user-images.githubusercontent.com/92823408/221376338-f63b6f32-655e-4643-a1b1-11b917046627.png">
+<img width="773" alt="Screenshot 2023-02-26 at 1 12 40 AM" src="https://user-images.githubusercontent.com/92823408/221376547-8124cd40-e8b1-4642-9f66-59550b82ef30.png">
+
+
 
 
 
