@@ -39,6 +39,24 @@ link - https://mumbai.polygonscan.com/address/0xe7B0D21316F5876568Ea214e16da1937
 <br />
 contract address - 0xe7B0D21316F5876568Ea214e16da1937D19b2f7b
 
+## run locally 
+Clone the project 
+```bash 
+git clone https://github.com/Jahanshah1/LandRegistryDapp
+```
+Install dependencies 
+```bash 
+npm i 
+```
+change directory 
+```bash
+cd client 
+```
+start localhost 
+```bash 
+npm start
+```
+If there are any problems please contact me shahjahanrajan@gmail.com
 
 
 
