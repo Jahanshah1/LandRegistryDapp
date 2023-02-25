@@ -5,7 +5,7 @@ import {Route, Routes} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Application from './components/Application';
-import Map from './components/Map'
+import Mapp from './components/Mapp'
 
 const App = () => {
   return(
@@ -16,7 +16,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Application" element={<Application />} />
-        <Route path='/Map' element={<Map />} />
+        <Route path='/Map' element={<Mapp />} />
       </Routes>
 
     

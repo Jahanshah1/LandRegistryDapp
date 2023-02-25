@@ -76,7 +76,7 @@ const Home = () => {
     </div>
 </div>
         
-    <div className="card text-xl hidden sm:block" style={{marginBottom:'480px',marginRight:'1000px',overflow:'scroll'}}>
+    <div className="card2 text-xl hidden sm:block" style={{marginBottom:'480px',marginRight:'1000px',overflow:'scroll'}}>
       <div className="align">
           <span className="red"></span>
           <span className="yellow"></span>
@@ -85,15 +85,16 @@ const Home = () => {
   
       <h1>Purpose</h1>
       <p>
-      By using this platform, scientists and researchers can securely
-       store and share their research data without the fear of it being
-        tampered with or compromised. This is made possible by the use of
-        InterPlanetary File System IPFS
+      The purpose of this platform is to provide a secure and transparent decentralized land registry 
+      system that uses smart contracts and web3.storage to verify and store land ownership data. The platform aims
+       to offer features such as land dispute resolution, land valuation, and property transactions, ensuring fair and 
+       transparent processes for all parties involved. By using blockchain technology, the platform can provide a tamper-proof 
+       and trustworthy system that enables property owners to register their ownership details with confidence.
       </p>
       </div>
   
   
-      <div className="card text-xl hidden sm:block" style={{marginBottom:'480px', marginRight:'550px',overflow:'scroll'}}>
+      <div className="card2 text-xl hidden sm:block" style={{marginBottom:'480px', marginRight:'550px',overflow:'scroll'}}>
       <div className="align">
           <span className="red"></span>
           <span className="yellow"></span>
@@ -102,16 +103,16 @@ const Home = () => {
   
       <h1>How</h1>
       <p>
-        This platform allows the research data to be stored in a distributed manner across multiple nodes, rather than being stored 
-        in a central location, which makes it much more resistant to tampering or interference. Overall, this decentralised platform 
-        provides a secure and reliable way for scientists and researchers to share research proposals and data within the scientific 
-        community
+        This platform allows the land data to be stored in a 
+        distributed manner across multiple nodes using IPFS. Further 
+        using smart contract the details are verified and finally stored 
+        on the blockchain.
       </p>
   
       </div>
       
   
-      <div className="card text-xl hidden sm:block" style={{marginBottom:"480px",marginRight:'100px',overflow:'scroll'}}>
+      <div className="card2 text-xl hidden sm:block" style={{marginBottom:"480px",marginRight:'100px',overflow:'scroll'}}>
       <div className="align">
           <span className="red"></span>
           <span className="yellow"></span>
