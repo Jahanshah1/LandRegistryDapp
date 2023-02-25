@@ -4,12 +4,35 @@
 ## Purpose / The problem it solves 
 The purpose of this platform is to create a decentralized and secure land registry system that uses smart contracts and blockchain technology to verify the authenticity of land titles and ownership. By allowing property owners to register their personal information and property details on the platform, the system can store this information on IPFS through web3.storage, ensuring that it cannot be tampered with. Additionally, the platform can include features  land valuation and verification, which can use smart contracts to settle disputes in a fair and transparent manner and provide property owners with an estimated market value for their land. The platform can also facilitate property transactions between buyers and sellers using secure smart contracts. Overall, the purpose of this platform is to provide a secure and transparent way for property owners to manage their land ownership and transactions.
 
-##Screenshots of the Dapp
+## Screenshots of the Dapp
 <img width="1470" alt="Screenshot 2023-02-26 at 1 02 20 AM" src="https://user-images.githubusercontent.com/92823408/221376195-ec14d460-64de-42bd-b6c0-2660aece1056.png">
-###Home page
+### Home page
 
 <img width="1467" alt="Screenshot 2023-02-26 at 1 02 31 AM" src="https://user-images.githubusercontent.com/92823408/221376225-cae61b99-a286-4bc1-b677-1a35e02bc2fd.png">
-###Home page with purpose card open
+### Home page with purpose card open
+
+
+<img width="1470" alt="Screenshot 2023-02-26 at 1 02 44 AM" src="https://user-images.githubusercontent.com/92823408/221376267-e2a9c1e3-03d0-4ebe-b467-ac1eee9dec61.png">
+### Application page
+
+
+<img width="1470" alt="Screenshot 2023-02-26 at 1 02 52 AM" src="https://user-images.githubusercontent.com/92823408/221376289-e7b5eaaf-b803-49f8-9f6c-a94668fe284e.png">
+### uploading a file
+
+
+<img width="780" alt="Screenshot 2023-02-26 at 12 51 54 AM" src="https://user-images.githubusercontent.com/92823408/221376338-f63b6f32-655e-4643-a1b1-11b917046627.png">
+### File getting uploaded to IPFS and getting the CID
+
+
+
+<img width="1470" alt="Screenshot 2023-02-26 at 1 03 10 AM" src="https://user-images.githubusercontent.com/92823408/221376365-ef197fdc-a5a6-4bcf-bd5e-18c942b559ea.png">
+### Map which shows registered land
+
+
+<img width="447" alt="Screenshot 2023-02-26 at 12 01 11 AM" src="https://user-images.githubusercontent.com/92823408/221376400-d9802fd6-4915-40cc-8470-c4047bf15c72.png">
+### Visualised structure of the smart contract
+
+
 
 
 
