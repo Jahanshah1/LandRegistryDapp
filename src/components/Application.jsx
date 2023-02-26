@@ -40,7 +40,7 @@ function Application() {
                     {
                       isDragActive ?
                         <p>Drop the files here ...</p> :
-                        <p>Drag 'n' drop some PDF files here, or click here to select files...</p>
+                        <p>Drag 'n' drop json files here, or click here to select files...</p>
                     }
                 </div>
                 {loading && <p className="mt-3 text-white spinner" style={{marginLeft:'60px', marginTop:'45px'}}>
